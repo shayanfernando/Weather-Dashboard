@@ -64,5 +64,5 @@ if st.button("Get Weather"):
             st.warning("It's windy today 💨")
     else:
         st.error("No data found")
-st.image("/Users/shayanfernando/Desktop/Weather Dashbaord/Unknown.png")
+st.image("Unknown.png")
 st.video("https://youtu.be/GDlkCkcIqTs?si=bnn_K7Ihxi1ITf-X")
